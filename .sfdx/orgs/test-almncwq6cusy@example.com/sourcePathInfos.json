@@ -1,0 +1,296 @@
+[
+    [
+        "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app",
+        {
+            "sourcePath": "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543568529890,
+            "changeTime": 1543568529890,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543568529890,
+            "changeTime": 1543568529890,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543574911257,
+            "changeTime": 1543574911257,
+            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb"
+        }
+    ],
+    [
+        "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543568529890,
+            "changeTime": 1543568529890,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation",
+        {
+            "sourcePath": "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543569023439,
+            "changeTime": 1543569023439,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 403,
+            "modifiedTime": 1543574211440,
+            "changeTime": 1543574211440,
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9716,
+            "modifiedTime": 1543574911198,
+            "changeTime": 1543574911198,
+            "contentHash": "6b2480dde267e08a59264c937869f74b9f78a505"
+        }
+    ],
+    [
+        "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9764,
+            "modifiedTime": 1543574911213,
+            "changeTime": 1543574911213,
+            "contentHash": "7a4198c56fc9666b469fc9cae75a7b9e4017d8b7"
+        }
+    ],
+    [
+        "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9716,
+            "modifiedTime": 1543574911231,
+            "changeTime": 1543574911231,
+            "contentHash": "3d9dfef638a5f11157cb9f6017ddf54df6947978"
+        }
+    ],
+    [
+        "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9764,
+            "modifiedTime": 1543574911251,
+            "changeTime": 1543574911251,
+            "contentHash": "dd3f5a93416d893f7f5721de3528cc909484ea9d"
+        }
+    ],
+    [
+        "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 366,
+            "modifiedTime": 1543574211607,
+            "changeTime": 1543574211607,
+            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543574911166,
+            "changeTime": 1543574911166,
+            "contentHash": "326e7c48cadd622e2df78cd327c2ebf718a6d1c2"
+        }
+    ],
+    [
+        "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\objects\\Account",
+        {
+            "sourcePath": "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543574211424,
+            "changeTime": 1543574211424,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543574211424,
+            "changeTime": 1543574211424,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543574211511,
+            "changeTime": 1543574211511,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\permissionsets",
+        {
+            "sourcePath": "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543574211574,
+            "changeTime": 1543574211574,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Fran__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Fran__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 360,
+            "modifiedTime": 1543574911178,
+            "changeTime": 1543574911178,
+            "contentHash": "bd272111d4312a8cf128ae30a503b9c8edf59fa5"
+        }
+    ],
+    [
+        "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4924,
+            "modifiedTime": 1543574911263,
+            "changeTime": 1543574911263,
+            "contentHash": "a00e3c961a59ea5714dddd7fd787e9e1f1bc7b4a"
+        }
+    ],
+    [
+        "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4584,
+            "modifiedTime": 1543574911273,
+            "changeTime": 1543574911273,
+            "contentHash": "253e51e086400ed5172443f75793845331fba508"
+        }
+    ],
+    [
+        "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4588,
+            "modifiedTime": 1543574911280,
+            "changeTime": 1543574911280,
+            "contentHash": "b73859ed3916519ef2f13d7d99a74a11bb5517b0"
+        }
+    ],
+    [
+        "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18108,
+            "modifiedTime": 1543574911294,
+            "changeTime": 1543574911294,
+            "contentHash": "79109acde20e452c4bfe3b420a6fccd3dc3332be"
+        }
+    ],
+    [
+        "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\alberto.merino\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543574911291,
+            "changeTime": 1543574911291,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
